@@ -12,4 +12,4 @@ for get_list route get (1)
 		
 		ten 
 		path
-		content
+		content table
